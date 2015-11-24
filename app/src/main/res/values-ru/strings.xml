@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пятнашки</string>
+    <string name="win">Вы победили! Сделано ходов:</string>
+    <string name="refresh">Новая игра</string>
+    <string name="moves">Сдлелано ходов:</string>
+</resources>
